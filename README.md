@@ -1,4 +1,4 @@
-# Finance Frontend
+# React Initialization
 
 ## Installation
 
